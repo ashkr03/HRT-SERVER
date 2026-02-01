@@ -7,7 +7,7 @@
   "type": "module",
   "main": "hrtcontact.js",
   "scripts": {
-    "start": "nodemon hrtcontact.js"
+    "start": "node hrtcontact.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
