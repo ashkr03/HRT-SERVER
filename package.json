@@ -7,7 +7,7 @@
   "type": "module",
   "main": "hrtcontact.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon hrtcontact.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
